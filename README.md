@@ -1,5 +1,5 @@
 ## Heya guys! ##
-### Welcome to my repo collection :) Theres a lot of scrappy projects on here but some are good I hope, please have a look around and get in touch if you have any questions on them ###
+### Welcome to my repo collection :) Theres a lot of scrappy projects lying about on here but some are good I hope. please have a look around and get in touch if you have any questions on them ###
 
 I love building logic by flexing both my creative and technical mindsets on all sorts of side projects, working alongside other great developers who share the same determination and to celebrate the wins together (no matter how big or small).
 
